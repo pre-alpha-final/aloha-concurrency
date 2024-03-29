@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlohaConcurrency", "AlohaConcurrency\AlohaConcurrency.csproj", "{B26E9296-584C-4300-9788-CDE867DCDDCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlohaConcurrency.Tests", "AlohaConcurrency.Tests\AlohaConcurrency.Tests.csproj", "{602E07A9-27A6-4519-A34A-BE7EE8685B2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B26E9296-584C-4300-9788-CDE867DCDDCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B26E9296-584C-4300-9788-CDE867DCDDCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B26E9296-584C-4300-9788-CDE867DCDDCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B26E9296-584C-4300-9788-CDE867DCDDCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602E07A9-27A6-4519-A34A-BE7EE8685B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602E07A9-27A6-4519-A34A-BE7EE8685B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602E07A9-27A6-4519-A34A-BE7EE8685B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602E07A9-27A6-4519-A34A-BE7EE8685B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FBDDB25-35B2-4525-9A09-C65CFAEB2878}
+	EndGlobalSection
+EndGlobal
